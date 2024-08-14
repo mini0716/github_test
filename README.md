@@ -1,1 +1,1 @@
-github pull requests test.
+Pull requests 활용하기!
